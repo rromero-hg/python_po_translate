@@ -21,7 +21,7 @@ def po_translate(po_path:str)->str:
     if "/" in po_path: lang = po_path.split("/")[-1].split(".")[0]
     else: lang = po_path.split(".")[0]
 
-    translator = Translator(provider='mymemory' ,to_lang=lang, secret_access_key="70a6fccaf785e3d8a623")
+    translator = Translator(provider='mymemory', to_lang=lang, secret_access_key="d0cf9a3e0a60f8e1e880")
     po = polib.pofile(po_path)
     count_msgid = 0
     count_msgstr = 0
@@ -34,6 +34,7 @@ def po_translate(po_path:str)->str:
                 if not len(entry.msgstr)>0:
                     translation = translator.translate(entry.msgid)
                     entry.msgstr = translation
+                    print(translation)
                     count_msgstr += 1
                     print(count_msgstr)
             except Exception as e:
