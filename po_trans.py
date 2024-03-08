@@ -13,7 +13,6 @@ def po_translate(po_path:str)->str:
 
     Parámetros:
     po_path (str): Ruta del archivo .po a traducir.
-    lang (str): Idioma al que se traducirá el archivo.
 
     Retorna:
     msg(str): Mensaje con el resumen del proceso de traducción.
@@ -21,7 +20,7 @@ def po_translate(po_path:str)->str:
     if "/" in po_path: lang = po_path.split("/")[-1].split(".")[0]
     else: lang = po_path.split(".")[0]
 
-    translator = Translator(provider='mymemory', to_lang=lang, secret_access_key="d0cf9a3e0a60f8e1e880")
+    translator = Translator(provider='microsoft', to_lang=lang, secret_access_key="0df3f5a8dec74a519c10512aaba0b906")
     po = polib.pofile(po_path)
     count_msgid = 0
     count_msgstr = 0
@@ -29,7 +28,6 @@ def po_translate(po_path:str)->str:
     for entry in po:
         if entry.msgid: count_msgid += 1
         if len(entry.msgid)>0:
-
             try:
                 if not len(entry.msgstr)>0:
                     translation = translator.translate(entry.msgid)

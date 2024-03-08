@@ -52,7 +52,7 @@ msgstr "Edad"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_attachment_count
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_attachment_count
 msgid "Attachment Count"
-msgstr ""
+msgstr "Recuento de archivos adjuntos"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__birthday
@@ -72,17 +72,17 @@ msgstr "Marca"
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__brand_description
 msgid "Brand description"
-msgstr ""
+msgstr "Descripción de la marca"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__component_ids
 msgid "Components"
-msgstr ""
+msgstr "Componentes"
 
 #. module: partes_trabajo
 #: model:ir.ui.menu,name:partes_trabajo.menu_config
 msgid "Config"
-msgstr ""
+msgstr "Configuración"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__create_uid
@@ -91,7 +91,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__create_uid
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__create_uid
 msgid "Created by"
-msgstr ""
+msgstr "Creado por"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__create_date
@@ -100,12 +100,12 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__create_date
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__create_date
 msgid "Created on"
-msgstr ""
+msgstr "Creado el"
 
 #. module: partes_trabajo
 #: model_terms:ir.ui.view,arch_db:partes_trabajo.view_search_employee
 msgid "Date"
-msgstr ""
+msgstr "Fecha"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__days_age
@@ -117,7 +117,7 @@ msgstr "Edad"
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__description
 msgid "Description"
-msgstr ""
+msgstr "Descripción"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__display_name
@@ -127,51 +127,51 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__display_name
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Nombre para mostrar"
 
 #. module: partes_trabajo
 #: model:ir.actions.act_window,name:partes_trabajo.act_window_employee
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__employee_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__employee_id
 msgid "Employee"
-msgstr ""
+msgstr "Empleado"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__date_enrollment
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__date_enrollment
 msgid "Enrollment Date"
-msgstr ""
+msgstr "Fecha de inscripción"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,genre:0
 #: selection:partes_trabajo.person,genre:0
 msgid "Female"
-msgstr ""
+msgstr "Hembra"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_follower_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_follower_ids
 msgid "Followers"
-msgstr ""
+msgstr "Seguidores"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_channel_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_channel_ids
 msgid "Followers (Channels)"
-msgstr ""
+msgstr "Seguidores (Canales)"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_partner_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_partner_ids
 msgid "Followers (Partners)"
-msgstr ""
+msgstr "Seguidores (Socios)"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__genre
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__genre
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__genre
 msgid "Genre"
-msgstr ""
+msgstr "Género"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__id
@@ -181,37 +181,37 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__id
 msgid "ID"
-msgstr ""
+msgstr "IDENTIFICACIÓN"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_unread
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_unread
 msgid "If checked new messages require your attention."
-msgstr ""
+msgstr "Si está marcado, los nuevos mensajes requieren su atención."
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_needaction
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_needaction
 msgid "If checked, new messages require your attention."
-msgstr ""
+msgstr "Si está marcada, los nuevos mensajes requieren su atención."
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_has_error
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_has_error
 msgid "If checked, some messages have a delivery error."
-msgstr ""
+msgstr "Si se selecciona, algunos mensajes tienen un error de entrega."
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__initials
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__initials
 msgid "Initials"
-msgstr ""
+msgstr "Iniciales"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_is_follower
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_is_follower
 msgid "Is Follower"
-msgstr ""
+msgstr "Es seguidor"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand____last_update
@@ -221,7 +221,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person____last_update
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Última modificación el"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__write_uid
@@ -230,7 +230,7 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__write_uid
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__write_uid
 msgid "Last Updated by"
-msgstr ""
+msgstr "Última actualización por"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__write_date
@@ -239,53 +239,53 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__write_date
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__write_date
 msgid "Last Updated on"
-msgstr ""
+msgstr "Última actualización el"
 
 #. module: partes_trabajo
 #: model:ir.actions.act_window,name:partes_trabajo.act_window_machine
 #: model:ir.ui.menu,name:partes_trabajo.menu_machine
 msgid "Machine"
-msgstr ""
+msgstr "Máquina"
 
 #. module: partes_trabajo
 #: model_terms:ir.ui.view,arch_db:partes_trabajo.view_form_machine
 msgid "Machine Parts"
-msgstr ""
+msgstr "Piezas de la máquina"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__machine_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__machine_ids
 msgid "Machines"
-msgstr ""
+msgstr "Máquinas"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_main_attachment_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_main_attachment_id
 msgid "Main Attachment"
-msgstr ""
+msgstr "Archivo adjunto principal"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,genre:0
 #: selection:partes_trabajo.person,genre:0
 msgid "Male"
-msgstr ""
+msgstr "Masculino"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_has_error
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_has_error
 msgid "Message Delivery error"
-msgstr ""
+msgstr "Error de entrega de mensajes"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_ids
 msgid "Messages"
-msgstr ""
+msgstr "Mensajes"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__model
 msgid "Model"
-msgstr ""
+msgstr "Modelo"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__name
@@ -294,82 +294,82 @@ msgstr ""
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__name
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__name
 msgid "Name"
-msgstr ""
+msgstr "Nombre"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_date_deadline
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr ""
+msgstr "Fecha límite de la próxima actividad"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_summary
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_summary
 msgid "Next Activity Summary"
-msgstr ""
+msgstr "Siguiente Resumen de la Actividad"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_type_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_type_id
 msgid "Next Activity Type"
-msgstr ""
+msgstr "Siguiente tipo de actividad"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_needaction_counter
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_needaction_counter
 msgid "Number of Actions"
-msgstr ""
+msgstr "Número de acciones"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_has_error_counter
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_has_error_counter
 msgid "Number of error"
-msgstr ""
+msgstr "Número de error"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_needaction_counter
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr ""
+msgstr "Número de mensajes que requieren una acción"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_has_error_counter
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr ""
+msgstr "Número de mensajes con error de entrega"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_unread_counter
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_unread_counter
 msgid "Number of unread messages"
-msgstr ""
+msgstr "Número de mensajes no leídos"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,activity_state:0
 msgid "Overdue"
-msgstr ""
+msgstr "Atrasado"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,activity_state:0
 msgid "Planned"
-msgstr ""
+msgstr "Planificado"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__name
 msgid "name"
-msgstr ""
+msgstr "nombre"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_user_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_user_id
 msgid "Responsible User"
-msgstr ""
+msgstr "Usuario Responsable"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__initials
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__initials
 msgid "Set the Initials of the employee"
-msgstr ""
+msgstr "Establecer las iniciales del empleado"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__activity_state
@@ -380,78 +380,82 @@ msgid ""
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr ""
+"Estado basado en actividades\n"
+"Vencido: La fecha de vencimiento ya ha pasado\n"
+"Hoy: La fecha de la actividad es hoy\n"
+"Actividades previstas: Actividades futuras."
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__surname
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__surname
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__surname
 msgid "Surname"
-msgstr ""
+msgstr "Apellido"
 
 #. module: partes_trabajo
 #: model:ir.actions.act_window,name:partes_trabajo.act_window_technician
 #: model:ir.ui.menu,name:partes_trabajo.menu_partes_technician
 msgid "Technician"
-msgstr ""
+msgstr "Técnico"
 
 #. module: partes_trabajo
 #: sql_constraint:partes_trabajo.employee:0
 msgid "The name must be unique!"
-msgstr ""
+msgstr "¡El nombre debe ser único!"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,activity_state:0
 msgid "Today"
-msgstr ""
+msgstr "Hoy"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_unread
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_unread
 msgid "Unread Messages"
-msgstr ""
+msgstr "Mensajes no leídos"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_unread_counter
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr ""
+msgstr "Contador de mensajes no leídos"
 
 #. module: partes_trabajo
 #: model:ir.ui.menu,name:partes_trabajo.menu_partes_trabajo
 msgid "Work Sheet"
-msgstr ""
+msgstr "Hoja de trabajo"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_brand
 msgid "brand"
-msgstr ""
+msgstr "marca"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_component
 msgid "component"
-msgstr ""
+msgstr "componente"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_employee
 msgid "employee"
-msgstr ""
+msgstr "empleado"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_machine
 msgid "machine"
-msgstr ""
+msgstr "máquina"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_person
 msgid "person"
-msgstr ""
+msgstr "persona"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_technician
 msgid "technician"
-msgstr ""
+msgstr "técnico"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__vat
 msgid "vat"
-msgstr ""
+msgstr "IVA"
