@@ -1,15 +1,19 @@
 ##Po translate
+import os
 from os import system
-system("clear")
 
+from dotenv import load_dotenv
 import polib
 from translate import Translator
 
+system("clear")
+
+load_dotenv()
 
 def po_translate(po_path:str)->str:
 
     """
-    Traduce un archivo .po al idioma especificado.
+    Traduce un archivo .po al idioma especificado en el archivo .po
 
     Parámetros:
     po_path (str): Ruta del archivo .po a traducir.
@@ -20,7 +24,9 @@ def po_translate(po_path:str)->str:
     if "/" in po_path: lang = po_path.split("/")[-1].split(".")[0]
     else: lang = po_path.split(".")[0]
 
-    translator = Translator(provider='microsoft', to_lang=lang, secret_access_key="0df3f5a8dec74a519c10512aaba0b906")
+    key = os.getenv("SECRET_ACCESS_KEY")
+
+    translator = Translator(provider='microsoft', to_lang=lang, secret_access_key=key)
     po = polib.pofile(po_path)
     count_msgid = 0
     count_msgstr = 0
@@ -34,10 +40,9 @@ def po_translate(po_path:str)->str:
                     entry.msgstr = translation
                     print(translation)
                     count_msgstr += 1
-                    print(count_msgstr)
             except Exception as e:
                 fail_trans.append(entry.msgid)
-                entry.msgstr = "Error al traducir"
+                entry.msgstr = ""
                 print("Error al traducir:", e)
     po.save()
     msg = f"Total entradas: {count_msgid}, traducidas: {count_msgstr}"
