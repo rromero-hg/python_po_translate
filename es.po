@@ -52,7 +52,10 @@ msgstr "Edad"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_attachment_count
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_attachment_count
 msgid "Attachment Count"
-msgstr "Nº de archivos adjuntos"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 54 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__birthday
@@ -72,17 +75,26 @@ msgstr "Marca"
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__brand_description
 msgid "Brand description"
-msgstr "Descripción de la marca "
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 53 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__component_ids
 msgid "Components"
-msgstr "Componentes"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 51 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.ui.menu,name:partes_trabajo.menu_config
 msgid "Config"
-msgstr "Config"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 49 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__create_uid
@@ -91,7 +103,10 @@ msgstr "Config"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__create_uid
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__create_uid
 msgid "Created by"
-msgstr "Creado por"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 47 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__create_date
@@ -100,12 +115,18 @@ msgstr "Creado por"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__create_date
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__create_date
 msgid "Created on"
-msgstr "Creado el"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 45 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model_terms:ir.ui.view,arch_db:partes_trabajo.view_search_employee
 msgid "Date"
-msgstr "Fecha"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 43 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__days_age
@@ -117,7 +138,10 @@ msgstr "Edad"
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__description
 msgid "Description"
-msgstr "Descripción"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 42 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__display_name
@@ -127,51 +151,75 @@ msgstr "Descripción"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__display_name
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__display_name
 msgid "Display Name"
-msgstr "Nombre mostrado"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 40 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.actions.act_window,name:partes_trabajo.act_window_employee
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__employee_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__employee_id
 msgid "Employee"
-msgstr "Empleado"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 38 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__date_enrollment
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__date_enrollment
 msgid "Enrollment Date"
-msgstr "Fecha de inscripción"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 36 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,genre:0
 #: selection:partes_trabajo.person,genre:0
 msgid "Female"
-msgstr "Femenino"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 33 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_follower_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_follower_ids
 msgid "Followers"
-msgstr "Seguidores"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 32 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_channel_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_channel_ids
 msgid "Followers (Channels)"
-msgstr "Seguidores (Canales)"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 25 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_partner_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Seguidores (Contactos)"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 23 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__genre
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__genre
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__genre
 msgid "Genre"
-msgstr "Género"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 21 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__id
@@ -181,37 +229,55 @@ msgstr "Género"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__id
 msgid "ID"
-msgstr "ID"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 20 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_unread
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_unread
 msgid "If checked new messages require your attention."
-msgstr "Si está marcado, hay nuevos mensajes que requieren su atención."
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 18 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_needaction
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_needaction
 msgid "If checked, new messages require your attention."
-msgstr "Si está marcado hay nuevos mensajes que requieren su atención."
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 16 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_has_error
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_has_error
 msgid "If checked, some messages have a delivery error."
-msgstr "Si se encuentra marcado, algunos mensajes tienen error de envío."
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 15 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__initials
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__initials
 msgid "Initials"
-msgstr "Iniciales"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 13 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_is_follower
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_is_follower
 msgid "Is Follower"
-msgstr "Es un seguidor"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 12 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand____last_update
@@ -221,7 +287,10 @@ msgstr "Es un seguidor"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person____last_update
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician____last_update
 msgid "Last Modified on"
-msgstr "Última modificación el"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 10 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__write_uid
@@ -230,7 +299,10 @@ msgstr "Última modificación el"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__write_uid
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__write_uid
 msgid "Last Updated by"
-msgstr "Última actualización por"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 08 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__write_date
@@ -239,53 +311,80 @@ msgstr "Última actualización por"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__write_date
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__write_date
 msgid "Last Updated on"
-msgstr "Ultima actualización en"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 07 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.actions.act_window,name:partes_trabajo.act_window_machine
 #: model:ir.ui.menu,name:partes_trabajo.menu_machine
 msgid "Machine"
-msgstr "Máquina"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 05 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model_terms:ir.ui.view,arch_db:partes_trabajo.view_form_machine
 msgid "Machine Parts"
-msgstr "Piezas del equipo"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 03 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__machine_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__machine_ids
 msgid "Machines"
-msgstr "Máquinas"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 13 MINUTES 01 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_main_attachment_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_main_attachment_id
 msgid "Main Attachment"
-msgstr "Adjuntos principales"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 59 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,genre:0
 #: selection:partes_trabajo.person,genre:0
 msgid "Male"
-msgstr "Hombre"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 58 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_has_error
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_has_error
 msgid "Message Delivery error"
-msgstr "Error de Envío de Mensaje"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 56 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_ids
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_ids
 msgid "Messages"
-msgstr "Mensajes"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 54 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__model
 msgid "Model"
-msgstr "Modelo"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 53 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__name
@@ -294,82 +393,124 @@ msgstr "Modelo"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__name
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__name
 msgid "Name"
-msgstr "Nombre"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 51 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_date_deadline
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_date_deadline
 msgid "Next Activity Deadline"
-msgstr "Fecha de vencimiento de siguiente actividad"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 50 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_summary
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_summary
 msgid "Next Activity Summary"
-msgstr "Resumen de la siguiente actividad"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 48 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_type_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_type_id
 msgid "Next Activity Type"
-msgstr "Tipo de actividad Siguiente"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 46 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_needaction_counter
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_needaction_counter
 msgid "Number of Actions"
-msgstr "Número de acciones"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 45 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_has_error_counter
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_has_error_counter
 msgid "Number of error"
-msgstr "Número de error"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 43 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_needaction_counter
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_needaction_counter
 msgid "Number of messages which requires an action"
-msgstr "Número de mensajes que requieren una acción"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 41 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_has_error_counter
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_has_error_counter
 msgid "Number of messages with delivery error"
-msgstr "Número de mensajes con error de envío"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 40 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__message_unread_counter
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__message_unread_counter
 msgid "Number of unread messages"
-msgstr "Número de mensajes no leidos"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 38 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,activity_state:0
 msgid "Overdue"
-msgstr "Vencido"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 37 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,activity_state:0
 msgid "Planned"
-msgstr "Planificada"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 35 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_machine__name
 msgid "name"
-msgstr "Nombre"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 34 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_user_id
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_user_id
 msgid "Responsible User"
-msgstr "Usuario responsable"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 32 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__initials
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_technician__initials
 msgid "Set the Initials of the employee"
-msgstr "Establecer las iniciales del empleado"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 31 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,help:partes_trabajo.field_partes_trabajo_employee__activity_state
@@ -380,82 +521,123 @@ msgid ""
 "Today: Activity date is today\n"
 "Planned: Future activities."
 msgstr ""
-"Estado basado en actividades\n"
-"Vencida: la fecha límite ya pasó\n"
-"Hoy: la fecha límite es hoy\n"
-"Planificada: actividades futuras."
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 29 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__surname
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_person__surname
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__surname
 msgid "Surname"
-msgstr "Apellido"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 28 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.actions.act_window,name:partes_trabajo.act_window_technician
 #: model:ir.ui.menu,name:partes_trabajo.menu_partes_technician
 msgid "Technician"
-msgstr "Técnico"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 26 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: sql_constraint:partes_trabajo.employee:0
 msgid "The name must be unique!"
-msgstr "El nombre debe ser único !"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 24 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: selection:partes_trabajo.employee,activity_state:0
 msgid "Today"
-msgstr "Ahora"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 23 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_unread
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_unread
 msgid "Unread Messages"
-msgstr "Mensajes sin leer"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 21 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_unread_counter
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_unread_counter
 msgid "Unread Messages Counter"
-msgstr "Contador de mensajes sin leer"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 19 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.ui.menu,name:partes_trabajo.menu_partes_trabajo
 msgid "Work Sheet"
-msgstr "Hoja de trabajo"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 18 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_brand
 msgid "brand"
-msgstr "brand"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 16 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_component
 msgid "component"
-msgstr "-"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 15 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_employee
 msgid "employee"
-msgstr "empleado"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 13 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_machine
 msgid "machine"
-msgstr "m"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 11 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_person
 msgid "person"
-msgstr "persona"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 10 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model,name:partes_trabajo.model_partes_trabajo_technician
 msgid "technician"
-msgstr "técnico "
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 08 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__vat
 msgid "vat"
-msgstr "# de identificación"
+msgstr ""
+"MYMEMORY WARNING: YOU USED ALL AVAILABLE FREE TRANSLATIONS FOR TODAY. NEXT "
+"AVAILABLE IN  18 HOURS 12 MINUTES 06 SECONDS VISIT "
+"HTTPS://MYMEMORY.TRANSLATED.NET/DOC/USAGELIMITS.PHP TO TRANSLATE MORE"
