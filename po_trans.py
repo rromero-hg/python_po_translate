@@ -31,9 +31,11 @@ def po_translate(po_path:str)->str:
         if len(entry.msgid)>0:
 
             try:
-                translation = translator.translate(entry.msgid)
-                entry.msgstr = translation
-                count_msgstr += 1
+                if not len(entry.msgstr)>0:
+                    translation = translator.translate(entry.msgid)
+                    entry.msgstr = translation
+                    count_msgstr += 1
+                    print(count_msgstr)
             except Exception as e:
                 fail_trans.append(entry.msgid)
                 entry.msgstr = "Error al traducir"

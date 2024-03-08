@@ -26,7 +26,7 @@ msgstr "A como inicial"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__message_needaction
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__message_needaction
 msgid "Action Needed"
-msgstr "Accion necesaria"
+msgstr "Acción necesaria"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_ids
@@ -38,7 +38,7 @@ msgstr "Actividades"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__activity_state
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__activity_state
 msgid "Activity State"
-msgstr "Estado actividad"
+msgstr "Estado de la actividad"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_employee__age
@@ -60,7 +60,7 @@ msgstr "Nº de archivos adjuntos"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__birthday
 #: model_terms:ir.ui.view,arch_db:partes_trabajo.view_form_employee
 msgid "Birthday"
-msgstr "Fecha nacimiento"
+msgstr "Cumpleaños"
 
 #. module: partes_trabajo
 #: model:ir.actions.act_window,name:partes_trabajo.act_window_brand
@@ -112,7 +112,7 @@ msgstr "Fecha"
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_technician__days_age
 #, fuzzy
 msgid "Days Age"
-msgstr "Edad"
+msgstr "Días de antigüedad"
 
 #. module: partes_trabajo
 #: model:ir.model.fields,field_description:partes_trabajo.field_partes_trabajo_brand__description
