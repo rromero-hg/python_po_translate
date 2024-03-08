@@ -44,4 +44,4 @@ def po_translate(po_path:str)->str:
     if len(fail_trans) > 0: print("No traducidas:", fail_trans)
     return msg
 
-po_translate("es.po")
+po_translate("po/es.po")
